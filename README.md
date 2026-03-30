@@ -21,9 +21,6 @@ I am a Sophomore Computer Engineering student at the University of Maryland, Col
 * **Technologies & APIs:** Claude API, React, Next.js, PostgreSQL, Tailwind CSS
 * **Tools:** Git, Linux, AWS, VSCode
 
-### 📈 GitHub Stats
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunanand2006&show_icons=true&theme=radical)
-
 ### 📫 Let's Connect
-* **LinkedIn:** [Your LinkedIn URL]
-* **Email:** [Your Email Address]
+* **LinkedIn:** [https://www.linkedin.com/in/varun-anand-8198a7221/]
+* **Email:** [varun.anand2006@gmail.com]
