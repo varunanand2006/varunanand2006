@@ -17,8 +17,8 @@ I am a Sophomore Computer Engineering student at the University of Maryland, Col
 * **Claude with Amazon Bedrock**
 
 ### Tech Stack & Tools
-* **Languages:** Python, TypeScript, JavaScript, C/C++
-* **Technologies & APIs:** Claude API, React, Next.js, PostgreSQL, Tailwind CSS
+* **Languages:** Python, TypeScript, JavaScript, C/C++, Rust
+* **Technologies & APIs:** Claude API, React, Next.js, PostgreSQL
 * **Tools:** Git, Linux, AWS, VSCode
 
 ### Let's Connect
