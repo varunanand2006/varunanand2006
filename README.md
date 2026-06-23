@@ -8,10 +8,6 @@ I am a Sophomore Computer Engineering student at the University of Maryland, Col
 * **GenTerp:** An AI-powered discovery and schedule planner designed specifically for UMD GenEd courses, built with TypeScript.
 * **AI Chess Engine:** A 1600 ELO Chess engine making use of tree purning algorithms, caching, and subprocesses in a pygame GUI.
 
-### What I'm Currently Up To
-* **Studying:** Deepening my knowledge in advanced algorithms, data structures, and core computer science concepts. 
-* **Exploring:** Expanding my backend development skills and looking for new opportunities in big tech and ML spaces.
-
 ### Certifications
 * **AWS Certified Cloud Practitioner**
 * **Building with the Claude API**
