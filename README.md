@@ -10,7 +10,6 @@ I am a Sophomore Computer Engineering student at the University of Maryland, Col
 
 ### Certifications
 * **AWS Certified Cloud Practitioner**
-* **Building with the Claude API**
 
 ### Tech Stack & Tools
 * **Languages:** Python, TypeScript, Java, C/C++, Rust
