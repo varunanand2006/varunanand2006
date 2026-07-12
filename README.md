@@ -1,6 +1,6 @@
 # Hi, I'm Varun
 
-I am a Sophomore Computer Engineering student at the University of Maryland, College Park, actively seeking Software Engineering internships. I'm passionate about building impactful software, exploring machine learning, and solving complex problems at scale.
+I am a Junior Computer Engineering student at the University of Maryland, College Park, actively seeking Software Engineering internships. I'm passionate about building impactful software, exploring machine learning, and solving complex problems at scale.
 
 ### Featured Projects
 * **Athena:** An agentic OS that utilizes a local model with a Andrej Karpathy's wiki style memory system to process my information, give reports and track progress towards personal goals.
