@@ -12,7 +12,7 @@ I am a Junior Computer Engineering student at the University of Maryland, Colleg
 * **AWS Certified Cloud Practitioner**
 
 ### Tech Stack & Tools
-* **Languages:** Python, TypeScript, Java, C/C++, Rust
+* **Languages:** Python, TypeScript, Java, C/C++, Rust, JavaScript
 * **Technologies & APIs:** Claude API, React, PostgreSQL
 * **Tools:** Git, Linux, AWS
 
